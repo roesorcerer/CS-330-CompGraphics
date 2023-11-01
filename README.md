@@ -16,7 +16,7 @@ To run this project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repository
+git clone https://github.com/your-username/your-repository](https://github.com/annastratton/CS-330-CompGraphics.git
 ```
 
 2. Navigate to the project directory:
@@ -24,7 +24,7 @@ git clone https://github.com/your-username/your-repository
 cd your-repository
 ```
 
-3. Compile the project using your preferred C++ compiler. If you are using CMake, you can create a `CMakeLists.txt` file to manage the build process.
+3. Compile the project using your preferred C++ compiler.
 
 4. Ensure that the GLFW and GLAD libraries are correctly linked in your build configuration.
 
@@ -33,6 +33,8 @@ cd your-repository
 ## Usage
 
 After compiling and running the executable, a window should appear displaying a 2D triangle. The triangle is rendered using OpenGL, and the window is created using GLFW. The triangle should be colored with a shade of orange, and the background color of the window should be a navy blue.
+
+![Screenshot 1](imgs/output.PNG)<br><br><br>
 
 ## Acknowledgements
 
