@@ -1,8 +1,8 @@
-# Application ReadMe
+# ReadMe - Week One SetUp 
 
 ## Introduction
 
-This ReadMe file provides an overview of the code in the `Application` class, which appears to be a part of a C++ application. The code appears to be related to window creation and management using the GLFW and OpenGL libraries.
+This ReadMe file provides an overview of the code in the `Application` class, which is part of a C++ application. The code is related to window creation and management using the GLFW and OpenGL libraries.
 
 ## Code Description
 
